@@ -14,7 +14,8 @@ const Home = () => {
 
         <div className="flex flex-col sm:flex-row gap-3 mt-4">
           <a
-            href="#"
+            href="https://github.com/TonniPaul/frontend-template"
+            target="_blank"
             className="px-6 py-3 rounded-full bg-black text-white dark:bg-white dark:text-black font-medium hover:opacity-80 transition"
           >
             Start Building
